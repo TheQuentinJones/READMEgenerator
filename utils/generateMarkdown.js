@@ -15,20 +15,42 @@ function generateMarkdown(data) {
   // console.log(data, 'this is in the generate markdown file')
   return `# ${data.fileName}
 
-          ## Description
+  ## Description
           
-          ${data.problem}
-          ${data.inspiration}
+  ${data.description}
+         
+  ## Table of Contents
 
-          ## Table of Contents
+  Installation\n
+  Usage\n
+  License\n
+  Contributing\n
+  Tests\n
+  Questions
 
-          ## Installation
+  ## Installation
 
-          ## Usage
+  ${data.installation}
 
-          ## License
+  ## Usage
 
-          ${data.licenses}
+  ${data.usage}
+
+  ## License
+
+  ${data.licenses}
+
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Tests
+
+  ${data.tests}
+
+  ## Questions
+
+  ${data.questions}
 
 `;
 

@@ -1,15 +1,44 @@
-# README Generator
+# ;alskdjf;alksjdf
 
-          ## Description
+  ## Description
           
-          It can be time consuming to create read me files for a project. With this application, we can reduce that time by having the system lend a hand.
-          I wanted to lower the amount of time it takes to create a high quality, professional read me for my projects.
+  ;a;sldkfj
+         
+  ## Table of Contents
 
-          ## Audience
+  Installation
 
-          This project is meant for all developers. Everyone who needs to create a great README file can use this application.
+  Usage
 
-          ## Licenses
+  License
 
-          There aren't any licenses associated with this project.
+  Contributing
+
+  Tests
+
+  Questions
+
+  ## Installation
+
+  ;alskjdf;alksdjf
+
+  ## Usage
+
+  ;alskdjf;aklsdjfa
+
+  ## License
+
+  MIT
+
+  ## Contributing
+
+  ;alksdjf;alksjdf
+
+  ## Tests
+
+  ;alsdjfa;lksdjf
+
+  ## Questions
+
+  ;alsdkjfa;ldksjf
 
