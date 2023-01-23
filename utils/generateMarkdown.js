@@ -50,10 +50,11 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  ${data.questions}
+  If you have questions, here is my github link: ${data.questions}
 
 `;
 
 }
 
 module.exports = generateMarkdown;
+
