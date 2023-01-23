@@ -15,11 +15,6 @@ const questions =
     },
     {
       type: 'input',
-      message: 'What sections does this project have?',
-      name: 'contents',
-    },
-    {
-      type: 'input',
       message: 'How does one install your project?',
       name: 'installation',
     },
@@ -86,7 +81,7 @@ function init() {
       // console.log(data)
       const createReadMe = generateMarkdown(info)
       console.log(createReadMe)
-      writeToFile('./README.md' , createReadMe)
+      writeToFile('./createdReadme/README.md' , createReadMe)
     }) 
   
 
