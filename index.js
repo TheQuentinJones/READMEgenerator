@@ -3,7 +3,7 @@ const inquirer = require('inquirer')
 
 const fs = require('fs')
 
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 // TODO: Create an array of questions for user input
 
 const questions = 
@@ -64,6 +64,11 @@ const questions =
       message: 'What is the link to your github profile?',
       name: 'questions',
     },
+    {
+      type: 'input',
+      message: 'What is the link to your email address?',
+      name: 'email',
+    },
   ];
 
 // TODO: Create a function to write README file
@@ -80,7 +85,7 @@ function init() {
     .then(function(info) {
       // console.log(data)
       const createReadMe = generateMarkdown(info)
-      console.log(createReadMe)
+      // console.log(createReadMe)
       writeToFile('./createdReadme/README.md' , createReadMe)
     }) 
   

@@ -1,8 +1,10 @@
 # README Generator
 
+
+
   ## Description
           
-    This project is creates a high quality, professional README. It is created completely using javascript with node.js. The application is prompted by using the node index.js in your command line. This application will ensure that you will never have to spend a long time creating a README and will help you better explain your application to its users.
+  This project is creates a high quality, professional README. It is created completely using javascript with node.js. The application is prompted by using the node index.js in your command line. This application will ensure that you will never have to spend a long time creating a README and will help you better explain your application to its users.
          
   ## Table of Contents
 
@@ -40,5 +42,5 @@
 
   ## Questions
 
-  If you have questions, here is my github link: https://github.com/TheQuentinJones
-
+  If you have questions, feel free to send me an email at qj82189@gmail.com.
+  You can also find me using github link: https://github.com/TheQuentinJones
