@@ -1,2 +1,0 @@
-# READMEgenerator
-Read
