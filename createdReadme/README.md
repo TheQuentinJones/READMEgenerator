@@ -1,10 +1,10 @@
-# README Generator
+# Ecommerce
 
-
+![GitHub](https://img.shields.io/github/license/TheQuentinJones/READMEgenerator)
 
   ## Description
           
-  This project is creates a high quality, professional README. It is created completely using javascript with node.js. The application is prompted by using the node index.js in your command line. This application will ensure that you will never have to spend a long time creating a README and will help you better explain your application to its users.
+  This project is the back end for an ecommerce site. It is the creation and maintenance of a database with all of the products in their respective categories with their respective tags. This application will allow you to see, create, update, and delete items from the database. This application would be good for any person running a business in which they have to keep meticulous eye on their inventory and update it frequently.
          
   ## Table of Contents
 
@@ -22,11 +22,11 @@
 
   ## Installation
 
-  To install this project, you can use the npm i command in your terminal.
+  One could install this project by downloading the code and the node modules using npm i. They would then be able to use this application on their own device.
 
   ## Usage
 
-  This project is used by entering the "node index.js" command in the terminal. You will follow the prompts to answer the questions. Those questions guide you through the different sections of your README and will layout the README as it should be for your project. Your answers will become the content of those sections. Using the questions as guides, you avoid forgetting to input information.
+  This project is used by first creating the database and seeding it with the provided information or your own information, then using the routes indicated to view, create, update, and delete items from the database. I will include a video tutorial on how this application works below.
 
   ## License
 
@@ -34,11 +34,11 @@
 
   ## Contributing
 
-  You can contribute to my project by contacting me.
+  You can contribute to this project by contacting me using the email below.
 
   ## Tests
 
-  You can install, go through the prompts, and see how your README comes out.
+  You can test this project by downloading the coding and node modules and using it on your local device.
 
   ## Questions
 
