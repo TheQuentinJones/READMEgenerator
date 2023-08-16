@@ -33,7 +33,7 @@ function generateMarkdown(data) {
 
 
   
-  return `# ${data.fileName}
+  return `# <h1 align="center">${data.fileName}</h1>
 
   ${badgeLink}
 
