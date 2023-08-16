@@ -20,6 +20,11 @@ const questions =
     },
     {
       type: 'input',
+      message: 'What is the link to your deployed application?',
+      name: 'deployLink',
+    },
+    {
+      type: 'input',
       message: 'How does one install your project?',
       name: 'installation',
     },

@@ -58,6 +58,8 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
+  Take a look at the deployed application here: ${data.deployLink}
+
   ## License
 
   ${data.licenses}
