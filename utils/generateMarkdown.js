@@ -73,8 +73,13 @@ function generateMarkdown(data) {
   ## Questions
 
   If you have questions, feel free to send me an email at ${data.email}.
-  You can also find me using github link: ${data.questions}`
+  You can also follow my github: ${data.github}
   
+
+  [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therealtorque/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quentin.mcc.jones@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QueTheRealtor) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realtor.que/)
+  
+  
+  `
 
   
 }
