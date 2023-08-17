@@ -20,6 +20,11 @@ const questions =
     },
     {
       type: 'input',
+      message: 'What is the link to your deployed application?',
+      name: 'deployLink',
+    },
+    {
+      type: 'input',
       message: 'How does one install your project?',
       name: 'installation',
     },
@@ -27,6 +32,24 @@ const questions =
       type: 'input',
       message: 'How is your project used?',
       name: 'usage',
+    },
+    {
+      type: 'checkbox',
+      message: 'What technologies were used in this project?',
+      choices: [ 'React',
+        'GraphQL',
+        'Mongoose',
+        'MongoDB',
+        'Express',
+        'Heroku',
+        'Node',
+        'NPM',
+        'JavaScript',
+        'HTML',
+        'CSS',
+        'Bootstrap'
+      ],
+      name: 'technologies',
     },
     {
       type: 'list',
