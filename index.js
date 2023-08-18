@@ -109,7 +109,7 @@ function init() {
       // console.log(data)
       const createReadMe = generateMarkdown(info)
       // console.log(createReadMe)
-      writeToFile('./createdReadme/README.md', createReadMe)
+      writeToFile('./output/README.md', createReadMe)
     })
 
 

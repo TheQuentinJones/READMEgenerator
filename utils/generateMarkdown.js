@@ -100,6 +100,8 @@ function generateMarkdown(data) {
   ## Built With:
 
   ${techBadgeRendering}
+
+  ![](https://i.imgur.com/waxVImv.png)
          
   ## Table of Contents
 
